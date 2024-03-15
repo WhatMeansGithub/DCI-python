@@ -1,4 +1,4 @@
-# Heading 1
+*# Heading 1
 ## Heading 2
 ### Heading 3
 
@@ -7,12 +7,18 @@
 ~~Strikethrough text~~
 
 - Bullet point 1
+  - Nested bullet point 1
+  - Nested bullet point 2
 - Bullet point 2
 - Bullet point 3
 
 1. Numbered item 1
+   1. Nested numbered item 1
+   2. Nested numbered item 2
 2. Numbered item 2
 3. Numbered item 3
+
+
 
 [Link text](https://www.example.com)
 ![Image alt text](image.jpg)
